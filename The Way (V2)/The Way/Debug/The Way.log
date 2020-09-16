@@ -1,0 +1,17 @@
+﻿Build started 18-May-19 11:04:16 PM.
+     1>Project "E:\BFCI\Third year\Second Term\Computer Grapgics\Project\The Way (V2)\The Way\The Way.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\The Way.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         The Way.vcxproj -> E:\BFCI\Third year\Second Term\Computer Grapgics\Project\The Way (V2)\Debug\The Way.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\The Way.unsuccessfulbuild".
+         Touching "Debug\The Way.lastbuildstate".
+     1>Done Building Project "E:\BFCI\Third year\Second Term\Computer Grapgics\Project\The Way (V2)\The Way\The Way.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
